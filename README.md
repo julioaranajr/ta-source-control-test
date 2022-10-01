@@ -1,6 +1,6 @@
 # ta-source-control-test
 
-##Exercise with my colleague Tamer Osman
+Exercise with my colleague Tamer Osman
   
   Follow him in: [Tamer-Osman](https://github.com/tamer4osman)
 
